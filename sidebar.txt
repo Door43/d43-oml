@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[oml:home|Door43 (oml)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-oml|d43-oml repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-oml/archive/master.zip|d43-oml.zip]]
+
+**Recent Changes**
+{{changes>ns = oml}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/oml|Ethnologue data]]
+
